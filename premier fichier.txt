@@ -6,3 +6,6 @@ commité à 11h10
 commit sur le serveur à 11h12
 
 en local, mergeage manuel
+
+
+ouhououh, modif sur le serveur alors que l autre est ouvert en cours de modif
