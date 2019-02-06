@@ -4,3 +4,5 @@ commité à 11h10
 
 
 commit sur le serveur à 11h12
+
+en local, mergeage manuel
